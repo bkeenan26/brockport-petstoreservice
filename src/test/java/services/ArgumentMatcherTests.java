@@ -13,7 +13,7 @@ import com.petstore.exceptions.DuplicatePetStoreRecordException;
 import com.petstore.exceptions.PetNotFoundSaleException;
 import com.petstoreservices.exceptions.PetDataStoreException;
 import com.petstoreservices.repository.PetRepository;
-import com.petstoreservices.service.PetInventoryService;;
+import com.petstoreservices.service.PetInventoryService;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.*;
